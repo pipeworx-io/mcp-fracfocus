@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/fracfocus",
   "title": "Fracfocus",
   "description": "fracfocus -- U.S. hydraulic fracturing chemical disclosures (fleet #2982).",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/fracfocus",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-fracfocus",
